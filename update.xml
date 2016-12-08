@@ -2,7 +2,7 @@
 <sharpUpdate>
 	<update appId="TestApp">
 		<version>2.0.0.0</version>
-		<url>https://raw.githubusercontent.com/CaptainAllergy/Sharp-Updater/master/bin/Debug/TestUpdater.exe</url>
+		<url>https://rawgithubusercontent.com/CaptainAllergy/Sharp-Updater/master/TestUpdater.exe</url>
 		<fileName>TestUpdater.exe</fileName>
 		<md5>ae5bc2ce2633a8e13eb88fed70949641</md5>
 		<description>Initial Update</description>
