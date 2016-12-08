@@ -66,7 +66,7 @@ namespace TestUpdater
         {
             get
             {
-                return new Uri("https://www.dropbox.com/home/TestUpdater/update.xml");
+                return new Uri("https://github.com/CaptainAllergy/Sharp-Updater/blob/master/bin/Debug/TestUpdater.exe");
             }
         }
 
