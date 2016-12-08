@@ -4,7 +4,7 @@
 		<version>3.0.0.0</version>
 		<url>https://raw.githubusercontent.com/CaptainAllergy/Sharp-Updater/master/TestUpdater.exe</url>
 		<fileName>TestUpdater.exe</fileName>
-		<md5>ae5bc2ce2633a8e13eb88fed70949641</md5>
+		<md5>defdb47caa359b3c1b5ded73668da805</md5>
 		<description>Initial Update</description>
 		<launchArgs></launchArgs>
 	</update>
